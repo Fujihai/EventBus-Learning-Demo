@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="liufushihai.project.stickyevents.MainActivity">
+
+    <Button
+        android:id="@+id/btn_send_sticky_event1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Sticky Event-1"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_send_sticky_event2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Sticky Event -2"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_send_sticky_event3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Sticky Event-3"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register for Sticky Event"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_unregister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Unregister for Sticky Event"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_remove_sticky_event"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove Sticky Event"
+        android:textAllCaps="false" />
+
+</LinearLayout>

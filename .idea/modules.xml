@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncExecutor/AsyncExecutor.iml" filepath="$PROJECT_DIR$/AsyncExecutor/AsyncExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusLearning.iml" filepath="$PROJECT_DIR$/EventBusLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GettingStarted/GettingStarted.iml" filepath="$PROJECT_DIR$/GettingStarted/GettingStarted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrioritiesAndEventCancellation/PrioritiesAndEventCancellation.iml" filepath="$PROJECT_DIR$/PrioritiesAndEventCancellation/PrioritiesAndEventCancellation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyEvents/StickyEvents.iml" filepath="$PROJECT_DIR$/StickyEvents/StickyEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadMode/ThreadMode.iml" filepath="$PROJECT_DIR$/ThreadMode/ThreadMode.iml" />
+      <module fileurl="file://E:\AndroidStudioProjects\EventBusLearning\GettingStarted\app.iml" filepath="E:\AndroidStudioProjects\EventBusLearning\GettingStarted\app.iml" />
+    </modules>
+  </component>
+</project>
